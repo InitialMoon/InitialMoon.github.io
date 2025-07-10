@@ -1,12 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "ANFluid: Animate Natural Fluid Photos base on Physics-Aware Simulation and Dual-Flow Texture Learning"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: https://dl.acm.org/doi/pdf/10.1145/3664647.3680950 
+excerpt: ANFluid introduces a new framework for generating realistic fluid animations from a single static image by combining physics-aware simulation (PAS) and dual-flow texture learning (DFTL). PAS ensures motion follows physical principles, while DFTL enhances texture prediction through innovative self-supervised techniques, improving animation quality without increasing model parameters. Experimental results show ANFluid outperforms existing methods in terms of physical consistency and content alignment, and user studies confirm its superior quality. The framework also supports interactive editing for dynamic content creation.
+
+date: 2024-10-28
+venue: MM''' 24
+paperurl: 'http://academicpages.github.io/files/ANFluid.pdf'
+citation: Xiangcheng Zhai, Yingqi Jie, Xueguang Xie, Aimin Hao, Na Jiang, and Yang Gao. 2024. ANFluid':' Animate Natural Fluid Photos base on Physics-Aware Simulation and Dual-Flow Texture Learning. In Proceedings of the 32nd ACM International Conference on Multimedia (MM '24). Association for Computing Machinery, New York, NY, USA, 3323–3331. https://doi.org/10.1145/3664647.3680950 
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
