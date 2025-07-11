@@ -49,9 +49,6 @@
   }
 
   img {
-    object-fit: contain; 
-    max-width: 100%;   /* 确保图片不会超过容器宽度 */
-    max-height: 200px; /* 限制图片的最大高度 */
     width: 100%;
   }
 }
