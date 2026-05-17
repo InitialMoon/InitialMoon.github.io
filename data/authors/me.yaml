@@ -1,0 +1,91 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Yingqi Jie
+  given: Yingqi
+  family: Jie
+  alternate: 介应奇
+  pronunciation: ''
+  pronouns: ''
+postnominals: []
+status:
+  icon: ''
+role: Ph.D. Student in Computer Science
+bio: |
+  Yingqi Jie is a Ph.D. student at Shanghai Jiao Tong University, advised by Prof. Linpeng Huang and Prof. Shengan Zheng. His current research focuses on microkernel-based systems, performance experimentation, and research-grade engineering tools, with prior research experience in computer graphics and AI.
+
+affiliations:
+  - name: Shanghai Jiao Tong University
+    url: https://www.sjtu.edu.cn/english/
+
+links:
+  - icon: at-symbol
+    url: mailto:jieyingqi814@qq.com
+    label: Email
+  - icon: brands/github
+    url: https://github.com/InitialMoon
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=oszvkqEAAAAJ&hl=en
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0004-1674-4984
+
+interests:
+  - Microkernel-based system architectures
+  - Operating systems and performance experimentation
+  - Research engineering tools
+  - Computer graphics and AI
+
+education:
+  - degree: Ph.D. Candidate in Computer Science
+    institution: Shanghai Jiao Tong University
+    start: 2025-09-01
+    end: 2030-06-30
+    summary: |
+      Advised by Prof. Linpeng Huang and Prof. Shengan Zheng.
+  - degree: B.S. in Software Engineering
+    institution: Beijing Institute of Technology
+    start: 2021-09-01
+    end: 2025-06-30
+
+experience: []
+
+skills:
+  - name: Systems
+    items:
+      - label: Microkernel architecture
+        level: 5
+      - label: Linux/kernel experimentation
+        level: 4
+      - label: Performance analysis
+        level: 4
+  - name: Programming
+    items:
+      - label: C/C++
+        level: 5
+      - label: Rust
+        level: 4
+      - label: Python
+        level: 5
+      - label: Shell
+        level: 5
+      - label: CUDA
+        level: 4
+  - name: Graphics and AI
+    items:
+      - label: OpenGL
+        level: 4
+      - label: Gaussian Splatting-related tooling
+        level: 4
+      - label: Research implementation
+        level: 5
+
+languages:
+  - name: Chinese
+    level: 5
+    label: Native
+  - name: English
+    level: 4
+    label: Professional
+
+awards: []
