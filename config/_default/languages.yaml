@@ -1,0 +1,29 @@
+# Languages
+# Documentation: https://docs.hugoblox.com/reference/language/
+
+en:
+  locale: en-us
+
+zh:
+  locale: zh-Hans
+  contentDir: content/zh
+  title: Yingqi Jie | 介应奇
+  params:
+    description: 介应奇的个人主页，展示系统研究、微内核相关实验、研究工程工具，以及图形学与 AI 方向的过往研究。
+  menu:
+    main:
+      - name: 首页
+        url: /zh/
+        weight: 10
+      - name: 研究
+        url: /zh/#research
+        weight: 20
+      - name: 论文
+        url: /zh/publications/
+        weight: 30
+      - name: 项目
+        url: /zh/projects/
+        weight: 40
+      - name: 简历
+        url: /zh/experience/
+        weight: 50

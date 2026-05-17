@@ -1,0 +1,63 @@
+role: 计算机科学博士生
+bio: |
+  我是上海交通大学计算机科学博士生，导师是黄林鹏教授和郑盛安教授。目前的研究关注微内核相关系统、性能实验和研究级工程工具；此前也有计算机图形学与 AI 方向的研究经历。
+
+affiliations:
+  - name: 上海交通大学
+    url: https://www.sjtu.edu.cn/
+
+interests:
+  - 微内核相关系统架构
+  - 操作系统与性能实验
+  - 研究工程工具
+  - 计算机图形学与 AI
+
+education:
+  - degree: 计算机科学博士研究生
+    institution: 上海交通大学
+    start: 2025-09-01
+    end: 2030-06-30
+    summary: |
+      导师：黄林鹏教授、郑盛安教授。
+  - degree: 软件工程学士
+    institution: 北京理工大学
+    start: 2021-09-01
+    end: 2025-06-30
+
+skills:
+  - name: 系统
+    items:
+      - label: 微内核架构
+        level: 5
+      - label: Linux / 内核实验
+        level: 4
+      - label: 性能分析
+        level: 4
+  - name: 编程
+    items:
+      - label: C/C++
+        level: 5
+      - label: Rust
+        level: 4
+      - label: Python
+        level: 5
+      - label: Shell
+        level: 5
+      - label: CUDA
+        level: 4
+  - name: 图形学与 AI
+    items:
+      - label: OpenGL
+        level: 4
+      - label: Gaussian Splatting 相关工具
+        level: 4
+      - label: 研究原型实现
+        level: 5
+
+languages:
+  - name: 中文
+    level: 5
+    label: 母语
+  - name: 英文
+    level: 4
+    label: 专业工作能力
