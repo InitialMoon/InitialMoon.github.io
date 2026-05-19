@@ -1,16 +1,16 @@
 role: 计算机科学博士生
 bio: |
-  我是上海交通大学计算机科学博士生，导师是黄林鹏教授和郑盛安教授。目前的研究关注微内核相关系统、性能实验和研究级工程工具；此前也有计算机图形学与 AI 方向的研究经历。
+  我是上海交通大学计算机科学博士生，导师是黄林鹏教授和郑盛安教授。目前的研究关注 Linux 内核内存管理、分层内存、NUMA 感知页面迁移与系统性能分析；此前也有微内核系统、计算机图形学与 AI 方向的研究经历。
 
 affiliations:
   - name: 上海交通大学
     url: https://www.sjtu.edu.cn/
 
 interests:
-  - 微内核相关系统架构
-  - 操作系统与性能实验
+  - Linux 内核内存管理
+  - 分层内存与 NUMA 感知页面迁移
+  - 系统性能分析
   - 研究工程工具
-  - 计算机图形学与 AI
 
 education:
   - degree: 计算机科学博士研究生
@@ -27,32 +27,30 @@ education:
 skills:
   - name: 系统
     items:
-      - label: 微内核架构
-        level: 5
-      - label: Linux / 内核实验
+      - label: Linux 内存管理
+        level: 4
+      - label: NUMA / 页面迁移
         level: 4
       - label: 性能分析
         level: 4
-  - name: 编程
+  - name: 编程与工具
     items:
-      - label: C/C++
-        level: 5
-      - label: Rust
+      - label: C 代码阅读/调试
+        level: 3
+      - label: Python / Shell 脚本
         level: 4
-      - label: Python
-        level: 5
-      - label: Shell
-        level: 5
-      - label: CUDA
+      - label: Git / tmux / Linux CLI
         level: 4
-  - name: 图形学与 AI
+      - label: Claude Code 工作流
+        level: 4
+  - name: 研究与实验
     items:
-      - label: OpenGL
+      - label: 系统论文精读
         level: 4
-      - label: Gaussian Splatting 相关工具
+      - label: 实验复现
         level: 4
       - label: 研究原型实现
-        level: 5
+        level: 4
 
 languages:
   - name: 中文

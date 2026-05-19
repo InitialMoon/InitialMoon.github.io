@@ -32,9 +32,9 @@ sections:
       title: Research Focus
       subtitle: Systems research as the current main line, with graphics and AI as prior research depth.
       text: |-
-        I work on **microkernel-based system architectures**, especially designs that separate kernel components into user space and make system behavior easier to experiment with, measure, and evolve.
+        My current work focuses on **Linux kernel memory management** and **systems performance**, especially memory tiering, NUMA-aware page migration, and evidence-driven analysis of kernel behavior.
 
-        My current interests include operating-system structure, performance experimentation, and research-grade engineering tools for systems work. During my undergraduate studies, I also worked at the intersection of **computer graphics and AI**, including physics-aware animation and rendering-related implementation.
+        Before this current line of work, I explored **microkernel-based system architectures** as a senior-year operating systems project. During my undergraduate studies, I also worked at the intersection of **computer graphics and AI**, including physics-aware animation and rendering-related implementation.
     design:
       columns: '1'
 
@@ -44,13 +44,13 @@ sections:
       subtitle: A compact view of the areas I want this site to make legible.
       text: |-
         ### Systems Research
-        Microkernel and operating-system experiments, performance tooling, and infrastructure for repeatable systems research.
+        Linux kernel memory-management experiments, NUMA-aware page migration, performance tooling, and infrastructure for repeatable systems research.
 
         ### Graphics + AI
-        ANFluid and related undergraduate work on physics-aware visual generation, CUDA/OpenGL implementation, and graphics research prototypes.
+        ANFluid and related undergraduate work on physics-aware visual generation and graphics research prototypes.
 
         ### Engineering Tools
-        Practical tools for remote experiments, automation, and developer workflows that support research iteration.
+        Practical tools for remote experiments, automation, Claude Code, and developer workflows that support research iteration.
     design:
       columns: '1'
 

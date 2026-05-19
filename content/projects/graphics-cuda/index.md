@@ -1,17 +1,17 @@
 ---
-title: Graphics and CUDA experiments
+title: Graphics research prototypes
 date: 2024-08-08
 links:
   - type: code
     url: https://github.com/InitialMoon/gauss_density_cuda
 tags:
   - Graphics
-  - CUDA
   - Rendering
+  - Research prototype
 ---
 
-CUDA/OpenGL experiments related to graphics pipelines, Gaussian Splatting, and rendering acceleration.
+Graphics experiments related to rendering pipelines, Gaussian Splatting, and research-prototype implementation.
 
 <!--more-->
 
-This group includes original implementation work such as gauss_density_cuda and graphics_basic_OpenGL, plus study and experimentation around Gaussian Splatting reference implementations. Forked repositories are used as research context when relevant.
+This group includes original graphics implementation work and study around Gaussian Splatting reference implementations. Forked repositories are used as research context when relevant.

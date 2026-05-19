@@ -13,7 +13,7 @@ status:
   icon: ''
 role: Ph.D. Student in Computer Science
 bio: |
-  Yingqi Jie is a Ph.D. student at Shanghai Jiao Tong University, advised by Prof. Linpeng Huang and Prof. Shengan Zheng. His current research focuses on microkernel-based systems, performance experimentation, and research-grade engineering tools, with prior research experience in computer graphics and AI.
+  Yingqi Jie is a Ph.D. student at Shanghai Jiao Tong University, advised by Prof. Linpeng Huang and Prof. Sheng'an Zheng. His current work focuses on Linux kernel memory management, memory tiering, NUMA-aware page migration, and evidence-driven systems performance analysis, with prior research experience in microkernel-based operating systems, computer graphics, and AI.
 
 affiliations:
   - name: Shanghai Jiao Tong University
@@ -31,10 +31,10 @@ links:
     url: https://orcid.org/0009-0004-1674-4984
 
 interests:
-  - Microkernel-based system architectures
-  - Operating systems and performance experimentation
+  - Linux kernel memory management
+  - Memory tiering and NUMA-aware page migration
+  - Systems performance analysis
   - Research engineering tools
-  - Computer graphics and AI
 
 education:
   - degree: Ph.D. Candidate in Computer Science
@@ -42,7 +42,7 @@ education:
     start: 2025-09-01
     end: 2030-06-30
     summary: |
-      Advised by Prof. Linpeng Huang and Prof. Shengan Zheng.
+      Advised by Prof. Linpeng Huang and Prof. Sheng'an Zheng.
   - degree: B.S. in Software Engineering
     institution: Beijing Institute of Technology
     start: 2021-09-01
@@ -53,32 +53,30 @@ experience: []
 skills:
   - name: Systems
     items:
-      - label: Microkernel architecture
-        level: 5
-      - label: Linux/kernel experimentation
+      - label: Linux memory management
+        level: 4
+      - label: NUMA / page migration
         level: 4
       - label: Performance analysis
         level: 4
-  - name: Programming
+  - name: Programming and tooling
     items:
-      - label: C/C++
-        level: 5
-      - label: Rust
+      - label: C code reading/debugging
+        level: 3
+      - label: Python / Shell scripting
         level: 4
-      - label: Python
-        level: 5
-      - label: Shell
-        level: 5
-      - label: CUDA
+      - label: Git / tmux / Linux CLI
         level: 4
-  - name: Graphics and AI
+      - label: Claude Code workflow
+        level: 4
+  - name: Research and experiments
     items:
-      - label: OpenGL
+      - label: Systems-paper reading
         level: 4
-      - label: Gaussian Splatting-related tooling
+      - label: Experiment reproduction
         level: 4
       - label: Research implementation
-        level: 5
+        level: 4
 
 languages:
   - name: Chinese
